@@ -61,20 +61,20 @@ const SocialWavesGraph = () => {
               </li>
             </ul>
             
-            <div className="grid grid-cols-5 gap-2 pt-2">
-              <div className="aspect-square bg-blue-600 rounded-md flex items-center justify-center p-1">
+            <div className="flex justify-between items-center mt-4 gap-2">
+              <div className="aspect-square w-10 h-10 bg-blue-600 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="MySpace Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-black rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-black rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Hi5 Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-green-500 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-green-500 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="DeviantArt Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-teal-400 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-teal-400 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="LiveJournal Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-red-600 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-red-600 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Blogger Logo" className="w-full h-full object-contain" />
               </div>
             </div>
@@ -107,20 +107,20 @@ const SocialWavesGraph = () => {
               </li>
             </ul>
             
-            <div className="grid grid-cols-5 gap-2 pt-2">
-              <div className="aspect-square bg-blue-700 rounded-md flex items-center justify-center p-1">
+            <div className="flex justify-between items-center mt-4 gap-2">
+              <div className="aspect-square w-10 h-10 bg-blue-700 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Facebook Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-gradient-to-r from-purple-500 to-pink-500 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-gradient-to-r from-purple-500 to-pink-500 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Instagram Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-black rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-black rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="TikTok Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-blue-400 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-blue-400 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Twitter Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-blue-800 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-blue-800 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Tumblr Logo" className="w-full h-full object-contain" />
               </div>
             </div>
@@ -153,20 +153,20 @@ const SocialWavesGraph = () => {
               </li>
             </ul>
             
-            <div className="grid grid-cols-5 gap-2 pt-2">
-              <div className="aspect-square bg-gradient-to-r from-purple-600 to-blue-400 rounded-md flex items-center justify-center p-1">
+            <div className="flex justify-between items-center mt-4 gap-2">
+              <div className="aspect-square w-10 h-10 bg-gradient-to-r from-purple-600 to-blue-400 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Replika Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-pink-600 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-pink-600 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Character.ai Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-gradient-to-r from-blue-600 to-blue-800 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-gradient-to-r from-blue-600 to-blue-800 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="ChatGPT Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-orange-500 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-orange-500 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Claude Logo" className="w-full h-full object-contain" />
               </div>
-              <div className="aspect-square bg-teal-700 rounded-md flex items-center justify-center p-1">
+              <div className="aspect-square w-10 h-10 bg-teal-700 rounded-md flex items-center justify-center p-1">
                 <img src="/lovable-uploads/9f25f7a1-64eb-463d-b1e1-1d454b7437e0.png" alt="Anthropic Logo" className="w-full h-full object-contain" />
               </div>
             </div>
