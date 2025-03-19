@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from 'react';
 import { cn } from '@/lib/utils';
 
@@ -38,7 +37,7 @@ const SocialWavesGraph = () => {
           <SocialWave className="animate-fade-in animated-element">
             <div className="flex items-center space-x-2 text-wave-blue">
               <span className="font-bold text-3xl">1.</span>
-              <h2 className="font-bold text-3xl">I am first</h2>
+              <h2 className="font-bold text-3xl">First wave</h2>
             </div>
             <div className="text-gray-600 text-lg font-medium italic">"MySpace Era"</div>
             
