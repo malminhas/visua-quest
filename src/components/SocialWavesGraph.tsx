@@ -38,7 +38,7 @@ const SocialWavesGraph = () => {
           <SocialWave className="animate-fade-in animated-element">
             <div className="flex items-center space-x-2 text-wave-blue">
               <span className="font-bold text-3xl">1.</span>
-              <h2 className="font-bold text-3xl">Profile-first</h2>
+              <h2 className="font-bold text-3xl">I am first</h2>
             </div>
             <div className="text-gray-600 text-lg font-medium italic">"MySpace Era"</div>
             
@@ -84,7 +84,7 @@ const SocialWavesGraph = () => {
           <SocialWave className="animate-fade-in animated-element">
             <div className="flex items-center space-x-2 text-wave-yellow">
               <span className="font-bold text-3xl">2.</span>
-              <h2 className="font-bold text-3xl">Feed-first</h2>
+              <h2 className="font-bold text-3xl">Second wave</h2>
             </div>
             <div className="text-gray-600 text-lg font-medium italic">"Facebook Era"</div>
             
@@ -130,7 +130,7 @@ const SocialWavesGraph = () => {
           <SocialWave className="animate-fade-in animated-element">
             <div className="flex items-center space-x-2 text-wave-coral">
               <span className="font-bold text-3xl">3.</span>
-              <h2 className="font-bold text-3xl">Chat-first</h2>
+              <h2 className="font-bold text-3xl">Third wave</h2>
             </div>
             <div className="text-gray-600 text-lg font-medium italic">"AI Era"</div>
             
