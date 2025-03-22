@@ -86,7 +86,7 @@ const SocialWavesGraph = () => {
               <span className="font-bold text-3xl">2.</span>
               <h2 className="font-bold text-3xl">Second wave</h2>
             </div>
-            <div className="text-gray-600 text-lg font-medium italic">"Facebook Era"</div>
+            <div className="text-gray-600 text-lg font-medium italic">"Depop Era"</div>
             
             <ul className="space-y-2 text-gray-700 pt-2">
               <li className="flex items-start">
