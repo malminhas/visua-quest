@@ -4,6 +4,42 @@
 
 **URL**: https://lovable.dev/projects/0fbda12b-8ee7-41f4-ab42-799550991f20
 
+## Running this code
+
+**Source**
+
+`git clone` the repo:
+```
+$ git clone git@github.com:malminhas/visua-quest.git
+```
+
+**Frontend**
+
+To run the frontend which was entirely built with lovable.dev, make sure you have everything you need to run Vite, TypeScript, React, shadcn-ui and Tailwind locally:
+```
+$ cd ..
+$ npm i
+$ npm run dev
+
+> vite_react_shadcn_ts@0.0.0 dev
+> vite
+
+Re-optimizing dependencies because lockfile has changed
+
+  VITE v5.4.10  ready in 594 ms
+
+  ➜  Local:   http://localhost:8080/
+  ➜  Network: http://192.168.0.190:8080/
+  ➜  press h + enter to show help
+```
+
+Now go to http://localhost:8080/ in the browser:
+
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/81836cbb-596c-4aa3-a8a9-ea0aea36ca25" />
+
+
+You can also view the output at [this public URL](https://preview--visua-quest.lovable.app/).
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
